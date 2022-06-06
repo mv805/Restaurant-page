@@ -1,4 +1,5 @@
 import './style.css';
+import './home-component.js';
 //build base format --index
 //      build-header --index
 //      build footer --index
@@ -80,3 +81,4 @@ function cleanupChildNodes(parent) {
 
 const navBar = new NavBar();
 addFooter();
+
